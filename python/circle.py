@@ -1,6 +1,6 @@
 ''' Functions from http://math2.org/math/geometry/circles.htm '''
 
-def circle_area(radius=1):
+def circle_aera(radius=1):
     pass
 
 def circle_circunference(radius=1):
