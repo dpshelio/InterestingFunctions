@@ -1,7 +1,7 @@
 ''' Functions from http://math2.org/math/geometry/circles.htm '''
-
-def circle_aera(radius=1):
-    pass
+import math
+def circle_area(radius=2):
+    return math.pi*radius**2
 
 def circle_circunference(radius=1):
     pass
